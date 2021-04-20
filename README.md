@@ -1,7 +1,7 @@
 # Automation-Tests-Java-Selenium-TestNG
 
 Automation Tests for Test environment - http://138.201.81.153:9095/ (www.cargodom.com). 
-Automation Test made in Java/Maven using Selenium and TestNG frameworks. 
+Automation Tests made in Java/Maven using Selenium and TestNG frameworks. 
 With Video.
 
 Automation Test for Working flow for Cargodom from beginning to end:
